@@ -1,6 +1,6 @@
-# TR- 2-3.⁠ ⁠Hafta Laboratuvar Soruları
+# TR - 2. ve 3. Hafta Laboratuvar Soruları
 
-Bu repo, 2. ve 3. hafta laboratuvar sorularını içermektedir. Kod, hem Türkçe hem de İngilizce yorum satırlarıyla yazılarak anlaşılır ve kapsamlı bir hale getirilmiştir. Amacımız, daha fazla kişinin koda kolaylıkla erişebilmesini ve farklı dil seçenekleri ile projeye katkıda bulunabilmesini sağlamaktır.
+Bu repo, Nesne Yönelimli Programlama dersinin 2. ve 3. hafta laboratuvar sorularını içermektedir. Kod, hem Türkçe hem de İngilizce yorum satırlarıyla yazılarak anlaşılır ve kapsamlı bir hale getirilmiştir. Amacımız, daha fazla kişinin koda kolaylıkla erişebilmesini ve farklı dil seçenekleri ile projeye katkıda bulunabilmesini sağlamaktır.
 
 İçerik
 
@@ -10,9 +10,9 @@ Bu repo, 2. ve 3. hafta laboratuvar sorularını içermektedir. Kod, hem Türkç
 
 Her katkı ve geri bildiriminiz, projeyi daha iyi bir hale getirmek için çok değerlidir!
 
-# EN- 2nd-3rd Week Laboratory Questions
+# EN - 2nd-3rd Week Laboratory Questions
 
-This repository contains the questions for the 2nd and 3rd week laboratory. The code is written with comments in both Turkish and English, making it accessible and comprehensive. Our goal is to enable more people to engage with the code and contribute to the project through multiple language options.
+This repository contains the questions for the 2nd and 3rd week of the Object-Oriented Programming course laboratory. The code is written with comments in both Turkish and English, making it accessible and comprehensive. Our goal is to enable more people to engage with the code and contribute to the project through multiple language options.
 
 Contents
 
