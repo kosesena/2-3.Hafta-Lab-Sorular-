@@ -31,7 +31,7 @@ namespace DiziAlgoritmasi // namespace ArrayAlgorithm
 
             //Taking a number from the user and checking it using binary search
             //Kullanıcıdan bir sayı alıp ikili arama ile kontrol etme
-            Console.Write("Aranacak sayıyı girin: "); // Enter the number to search
+            Console.Write("Aranacak sayıyı girin: "); // ("Enter the number to search: ")
            
             int aranan = int.Parse(Console.ReadLine()); // int searched
            
