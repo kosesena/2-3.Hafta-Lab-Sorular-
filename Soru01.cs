@@ -19,8 +19,8 @@ namespace DiziAlgoritmasi // namespace ArrayAlgorithm
 
             for (int i = 0; i < n; i++)
             {
-                Console.Write($"Dizinin {i + 1}. elemanını girin: ");
-                dizi[i] = int.Parse(Console.ReadLine());
+                Console.Write($"Dizinin {i + 1}. elemanını girin: "); // Enter the {i+1}th element of the array
+                dizi[i] = int.Parse(Console.ReadLine()); // array[i] = int.Parse(Console.ReadLine())
             }
 
             // Sorting the array
